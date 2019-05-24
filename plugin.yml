@@ -1,0 +1,7 @@
+name: West_Shop
+version: 1.0
+main: me.sesssowsky.west.Main
+author: sesssowsky
+
+commands:
+  shop:
